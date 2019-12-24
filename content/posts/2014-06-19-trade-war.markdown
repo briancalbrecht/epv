@@ -1,0 +1,48 @@
+---
+author: brian@briancalbrecht.com
+comments: true
+date: 2014-06-19 20:42:43+00:00
+layout: post
+link: http://www.econpointofview.com/2014/06/trade-war/
+slug: trade-war
+title: Trade is not War
+wordpress_id: 991
+categories:
+- Economics
+tags:
+- Boeing
+- Gains
+- Neil Irwin
+- Trade
+---
+
+I'm sorry the blog has been a little slow. On top of finishing up my Master's (we turned in our thesis last week, phew) and getting ready to head back to Minnesota, I have also been working on a little book, released this summer. More on that will come. One chapter is about the benefits of exchange. Some people forget this lesson.
+
+I had to come back to respond to a post by Neil Irwin at Upshot. It's called "[Why We’re All Crony Capitalists, Like It or Not](http://www.nytimes.com/2014/06/19/upshot/why-were-all-crony-capitalists-like-it-or-not.html?rref=upshot&smid=tw-upshotnyt&_r=0)." It is a good read and worth an analysis by all of my readers.
+
+While there is much to talk about in the post, I want to focus on one part. He explains why the case for shutting down the Ex-Im Bank isn't a slam dunk:
+
+
+<blockquote>And there’s the rub for those who want to shut down the Ex-Im Bank. It’s all well and good to assail [crony capitalism](http://www.againstcronycapitalism.org/2014/06/new-york-times-crony-capitalism-isnt-so-bad-and-the-export-import-bank-boeings-bank-really-isnt/) and to say that taxpayers shouldn’t be subsidizing private industry. But it also would **amount to unilateral disarmament** on the international stage, essentially putting American exporters at a clear disadvantage compared with European and Asian competitors. (emphasis added)</blockquote>
+
+<!-- more -->
+
+Unilateral disarmament, arguably a problem for a military, is a meaningless metaphor with respect to trade. Trade is not war. We don't have arms and cannot disarm. It is unfortunate that economics uses words like "trade-wars" or "competition" that make trade seem like a zero or negative-sum game. We economists are good with picking terms...
+
+Trade is a positive-sum game. Everyone benefits from trade. People would not trade if they weren't better off. The same thing holds for trading between my grocer and I, as for companies from different countries. If it is beneficial for someone to trade with his neighbor, it is beneficial to trade with a foreigner. The statistics of exports and imports might cover up the idea that really two people are trading. That's why it is important to think about the underlying people and not the statistics.
+
+War is fundamentally different, day and night. In war, both countries are losers. In trade, both countries are winners, always both sides. Thinking about trade as war will only obscure the picture. When we remember to think of trade as beneficial, the "fight" disappears. We are left wondering what institutions best serve people's needs.
+
+Neil has done a great job thinking beyond stage one. The world does not function like the friction-less models that some people study. The economy will not instantly adjust. Jobs will be lost, as with any change in the economy. That is the obvious downside of shutting down the Ex-Im Bank.
+
+However, Neil stops at stage two. He only sees the companies that will be hurt by abolishing the Ex-Im Bank. He mourns for the Boeings of the world. He does not look at the other side of the market, consumers. This is the [protectionism argument](http://cafehayek.com/2014/06/milton-friedman-debates-a-protectionist.html) all over again, which I swore no one believed.
+
+http://www.youtube.com/watch?v=6qqG6OurHaM
+
+How would consumers be affected by a more responsive market that does not rely on subsidies? It is hard to imagine how consumers would be hurt. If Boeing can still offer the service at a price people will pay, consumers are in the same spot. If they are not productive enough to handle a global market, consumers will be better off with foreign products.
+
+Yes, these consumers might need to spend more dollars. But what happens to those dollars? They have to come back to the States at some point. If they don't, American's got planes for paper. That sounds like a good deal to me. If the dollars do come back, we will export more of a different product, which Neil seems to think is a good goal. This [creative-destruction](http://danieljmitchell.wordpress.com/2014/05/12/the-economics-of-creative-destruction/) allows markets to more effectively use inputs for outputs. How we label the exchange shouldn't change anything.
+
+The dispersed actions of people work to allocate resources on a market. It's not obvious to the eye because it is complex, but it happens. Distortions from institutions like the Ex-Im Bank only hamper the wealth creation, positive-sum aspect of markets.
+
+My post doesn't even address the [public choice](http://mercatus.org/expert_commentary/big-business-cronies-rally-protect-export-import-bank) concerns that are rampant with something like the Ex-Im Bank. I'll leave that to someone else. I'm back to studying.

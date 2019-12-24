@@ -1,0 +1,72 @@
+---
+author: brian@briancalbrecht.com
+comments: true
+date: 2014-12-17 15:40:56+00:00
+layout: post
+link: http://www.econpointofview.com/2014/12/my-books-from-2014/
+slug: my-books-from-2014
+title: I LOVE BOOKS- My Favorite Books From 2014
+wordpress_id: 1132
+categories:
+- Books
+- Economics
+tags:
+- Books
+- Buchanan
+- Economics
+- Reading
+---
+
+![](http://2.bp.blogspot.com/-SConr478LzM/UJlhZW3xW-I/AAAAAAAAABg/iJZGAaNBwwU/s1600/boy-excited-reading-1.jpg)
+
+Seeing other people's lists of their favorite books of the year, like [Ryan Decker's,](http://updatedpriors.blogspot.com/2014/12/my-five-favorite-books-of-2014.html) inspired me to read a few more books and add A LOT to my "To Read" pile. Perhaps my list of the best books I read in 2014 will inspire others.
+
+
+## **Economics Books for Everybody**
+
+
+I fell in love with economics through books written for non-economists, like Thomas Sowell's [_Basic Economics._](http://www.amazon.com/Basic-Economics-Common-Sense-Economy/dp/0465002609) Even during my academic work, I try to continue reading economics books that highlight the beauty of economic reasoning in the world around us. Here are two books to help you see the world as an economist:
+
+
+
+	
+  * _The New World of Economics_ by Richard McKenzie and Gordon Tullock- Long before_ Freakonomics_, and even before Steven Landsburg's fantastic _An Armchair Economist_, _The New World of Economics _showed the wonder of economics. If you're first economics class was deathly boring, this little book could have spiced it up. Published in 1975, this book still enthralled me with vivid insights about the world. Even economists who think they know supply and demand analysis could benefit from a (re)reading of this classic. With whole sections on sex, it's not some boring textbook.
+
+	
+  * _[An Economist Gets Lunch: New Rules for Everyday Foodies](https://www.goodreads.com/book/show/13139126-an-economist-gets-lunch)_ by Tyler Cowen- I love food. One of the highlights of the past few years has been my discovery of better food. Tyler Cowen largely influenced me through his older book, _Discover Your Inner Economist_. If you're interested in learning about food, which you should be, and are interested in how an economist looks at the problem, which you definitely should be, pick up _An Economist Gets Lunch _immediately. You'll start finding cheaper and better food without much effort. I certainly have.
+
+
+
+
+## **Economics Books for Economists**
+
+
+This list is geared toward economists. It is more technical, although all the books would be accessible for someone with an interest in economics.<!-- more -->
+
+
+
+	
+  * _[What Should Economists Do?](https://www.goodreads.com/book/show/1253581.What_Should_Economists_Do_)_ by James Buchanan- I have read and reread this book already during 2014. I have a physical copy and a PDF version to make things easy. The essays in _What Should Economists Do? _have been an indispensable reference as I discover what kind of economist I should become. It's not as simple as it might seem to outsiders, and even many insiders. (If anyone thinks economists should simply do economics how it is taught in graduate school , I urge them to read Pete Boettke's _Living Economics _to understand the problems with this.) As an economic scientist, I have a duty. I didn't become an economist to become rich and famous. I became an economist to study the world. The only way to understand if I am fulfilling this duty requires deep thought on what this all means. Buchanan's book is the best lesson in how to do this that I've found. If you find a better one, let me know.
+
+	
+  * _[Anarchy Unbound: Why Self-Governance Works Better Than You Think](https://www.goodreads.com/book/show/19282978-anarchy-unbound)_ by Pete Leeson- This past summer I blogged my thoughts on Leeson's book [here.](http://www.econpointofview.com/2014/08/anarchy-unbound/)  This book almost belongs in the top section, but there are enough references to scare off many non-social scientists. _Anarchy Unbound _is not a rah-rah book for anarchy. It is deeper as a work of science. Following Tullock, Leeson has an incredible ability to see the economics that underlies all of human life, especially weird parts of human history. To understand how to apply power economic tools, pick up Leeson's book. Leeson is a natural economist.
+
+	
+  * _[Public Finance and Public Choice: Two Contrasting Visions of the State](https://www.goodreads.com/book/show/173960.Public_Finance_and_Public_Choice)_ by James Buchanan and Richard Musgrave- Buchanan makes the list twice; he's that good. For a while I was under the impression that public finance and public choice were one whole body of thought with two parts. Maybe I thought something like "public choice assume government is bad and public finance assumes government is good." After reading this book, I don't believe that. There are fundamental assumptions in each approach that make them worlds apart. The book consists of a series of lectures by the two authors that go back and forth. The book is a treat in terms of style, information, and brevity. Anyone who studies public finance should focus on Buchanan's part. Anyone who studies public choice should focus on Musgrave's part. They will challenge your assumptions about "your side" and the "other side." At times I found Musgraves parts infuriating, but he made clear that his position is something he has thought deeply about.
+
+	
+  * _[An Entrepreneurial Theory of the Firm](https://www.goodreads.com/book/show/5291262-an-entrepreneurial-theory-of-the-firm)_ by Frederic Sautet- This was the first book that enthralled me this year. I read it in one sitting and even [blogged about it](http://www.econpointofview.com/2014/02/entrepreneurial-theory-firm-review/). Samuelsonian economists might find not follow the style. Austrians might not think Sautet has added anything new. Yet, both can learn from this book. If you still study businesses as a system of inputs and outputs through a production function, you're about 80 years behind. If you've read Coase, Alchian, Kirzner, or Williamson and think you understand the purpose of the firm, Sautet will push you deeper. It's a fun book from an IO, history of thought, New Institutionalist, and Austrian perspective. I'm not sure how I can use it in my research, but it caused me to reconsider my understanding of how businesses work and what their role is.
+
+	
+  * _[Complex Adaptive Systems: An Introduction to Computational Models of Social Life](https://www.goodreads.com/book/show/245273.Complex_Adaptive_Systems)_ by John H. Miller- As I said in [my last post](http://www.econpointofview.com/2014/12/one-semester-in-an-economics-phd/), lately I've read up on complexity theory and agent-based modeling. While this book is a good introduction to the field for social scientists, I included it as an encouragement to study agent-based modeling. More broadly, I want to encourage economists to study a wider range of approaches instead of simply maximizing a utility function subject to constraints. Agent-based modeling is the approach I've discovered over the last few months and I find it fascinating.
+
+
+<!-- more -->
+
+<!-- more -->
+
+<!-- more -->
+
+
+
+

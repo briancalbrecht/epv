@@ -1,0 +1,39 @@
+---
+author: brian@briancalbrecht.com
+comments: true
+date: 2014-12-31 14:12:35+00:00
+layout: post
+link: http://www.econpointofview.com/2014/12/top-posts-2014/
+slug: top-posts-2014
+title: Top Posts of 2014
+wordpress_id: 1139
+categories:
+- Economics
+tags:
+- Blog
+- Posts
+- Top
+---
+
+![](http://upload.wikimedia.org/wikipedia/commons/0/05/Sydney_new_years_2008-9.JPG)2014 was an eventful year for me, which doesn't help my blogging. For those who don't know, I started the year in Barcelona where I was finishing up my master's degree. After moving to Minnesota, I got married (the real highlight of the year) and then started my Ph.D.
+
+Along the way, I was able to squeeze in a few posts. Here are the most popular posts of 2014 (with stats since around August 1st):
+
+
+
+	
+  1. [Which School of Thought Are You?](http://www.econpointofview.com/2014/06/school-thought/) (3,244 views)- A short post with a table about different schools of thought. Not a particularly enlightening post, but it did well on Reddit. Reddit leads to traffic, but not interactions.
+
+	
+  2. [5 Life Lessons Economics Taught Me](http://www.econpointofview.com/2014/05/5-life-lessons-economics-taught/) (2,433 views)- My personal favorite, this post highlighted a few of the lessons I've taken away from economics. I've extended this post into a short e-book, but it looks like the Ph.D. has successfully killed that project.
+
+	
+  3. [One Semester in an Economics Ph.D.](http://www.econpointofview.com/2014/12/one-semester-in-an-economics-phd/) (463 views)- This recent post has done well (for my little blog). In it, I reflect on my first semester at Minnesota. It explains the process a little to my friends and family who have no idea what an economics Ph.D. is like.
+
+	
+  4. [Reflections on the Advanced Austrian Seminar](http://www.econpointofview.com/2014/08/advanced-austrian-seminar-mercatus/) (253 views)- This summer was the first time I had met anyone interested in Austrian economics. Before that, I just assumed everyone was fake. Nope. Not true. Here I wrote down my thoughts after spending some time learning about Austrian economics from people like Pete Boettke, Pete Leeson, Chris Coyne, and Larry White.
+
+
+These aren't Marginal Revolution stats, but I've enjoyed every minute of it. Next year, I will keep pushing to make this site interesting for both of my followers!
+
+Happy New Year :)
